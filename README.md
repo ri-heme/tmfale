@@ -8,7 +8,7 @@ In this repository, you will find my scripts to analyze and run TFA on ALE data.
 
 1. **Data Pre-processing.ipynb** - Notebook where raw metabolomic and physiological data is read and formatted, so it can be input as constraints of the MILP problem.
 2. **TFA.ipynb** - Notebook where the above data is fed into a TFA model that estimates an optimal distribution of log concentrations, delta G, and fluxes.
-3. **Plotting** - Separate notebook to obtain visualization of the results.
+3. **Plotting.ipynb** - Separate notebook to obtain visualization of the results.
 
 Additionally, you will find:
 
